@@ -3,7 +3,7 @@
 
 # Datasets for Practicing Applied Machine Learning
 <p align="center">
-  <img height=”1px" width=”1px" src="https://github.com/DanOliveira-DS/Datasets_for_Practicing_Applied_Machine_Learning/blob/master/images/718.jpg?raw=true" >
+  <img width=110% src="https://github.com/DanOliveira-DS/Datasets_for_Practicing_Applied_Machine_Learning/blob/master/imgs/718.jpg?raw=true" >
 </p>
 créditos pela imagem: <a href='https://www.freepik.com/free-photos-vectors/technology'>Technology vector created by upklyak - www.freepik.com</a>
 
