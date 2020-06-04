@@ -6,7 +6,10 @@
   <img width=110% src="https://github.com/DanOliveira-DS/Datasets_for_Practicing_Applied_Machine_Learning/blob/master/imgs/718.jpg?raw=true" >
 </p>
 
-Aqui você encontra minhas soluções para diversos tipos de conjuntos de dados. Desde da coleta dos dados, análise exploratória desses dados até a construção do modelo final.
+Aqui você encontra as minhas soluções para diversos tipos de conjuntos de dados. Objetivo é implementar um verdadeiro fluxo de trabalho que vai desde:
+* Coleta dos dados;
+* Análise exploratória de dados;
+* Construção do modelo final.
 
 # English Version
 
