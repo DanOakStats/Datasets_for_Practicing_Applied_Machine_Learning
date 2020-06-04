@@ -3,8 +3,9 @@
 
 # Datasets for Practicing Applied Machine Learning
 <p align="center">
-  <img width="85%" src="" >
+  <img width="60%" src="https://github.com/DanOliveira-DS/Datasets_for_Practicing_Applied_Machine_Learning/blob/master/images/718.jpg?raw=true" >
 </p>
+<a href='https://www.freepik.com/free-photos-vectors/technology'>Technology vector created by upklyak - www.freepik.com</a>
 
 Aqui você encontra minhas soluções para diversos tipos de conjuntos de dados. Desde da coleta dos dados, análise exploratória dos dados e a construção do modelo final.
 
