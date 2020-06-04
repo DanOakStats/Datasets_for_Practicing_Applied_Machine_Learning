@@ -9,3 +9,7 @@
 Aqui você encontra minhas soluções para diversos tipos de conjuntos de dados. Desde da coleta dos dados, análise exploratória dos dados e a construção do modelo final.
 
 Este repositorio tem o intuito de testar varias tecnicas para um mesmo conjunto de dados. Com o objetivo de aprofundar ainda mais na área
+
+English Version
+
+Here you will find my solutions for different types of datasets. From data collection, exploratory data analysis and the construction of the final model.
