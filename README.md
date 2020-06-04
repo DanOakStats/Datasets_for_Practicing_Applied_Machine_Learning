@@ -6,10 +6,8 @@
   <img width=110% src="https://github.com/DanOliveira-DS/Datasets_for_Practicing_Applied_Machine_Learning/blob/master/imgs/718.jpg?raw=true" >
 </p>
 
-Aqui você encontra minhas soluções para diversos tipos de conjuntos de dados. Desde da coleta dos dados, análise exploratória dos dados e a construção do modelo final.
+Aqui você encontra minhas soluções para diversos tipos de conjuntos de dados. Desde da coleta dos dados, análise exploratória desses dados até a construção do modelo final.
 
-Este repositorio tem o intuito de testar varias tecnicas para um mesmo conjunto de dados. Com o objetivo de aprofundar ainda mais na área
+# English Version
 
-English Version
-
-Here you will find my solutions for different types of datasets. From data collection, exploratory data analysis and the construction of the final model.
+Here you will find my solutions for different types of datasets. From data collection, exploratory analysis of these data until the construction of the final model.
