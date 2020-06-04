@@ -7,13 +7,20 @@
 </p>
 
 Aqui você encontra as minhas soluções para diversos tipos de conjuntos de dados. Objetivo é implementar um fluxo de trabalho que vai desde:
-* Coleta dos dados;
+* Coleção de dados;
 * Análise exploratória de dados;
-* Construção do modelo final.
+* Limpeza de dados;
+* Engenharia de recursos;
+* Seleção de algoritmos
+* Treinamento do modelo final.
 
 # English Version
 
 Here you will find my solutions for different types of data sets. Objective is to implement a workflow ranging from:
 * Data collection;
 * Exploratory data analysis;
-* Construction of the final model.
+* Data Cleaning;
+* Feature Engineering;
+* Algorithm Selection
+* Model Training.
+
