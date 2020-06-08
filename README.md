@@ -26,5 +26,5 @@ Here you will find my *Machine Learning* solutions for various types of data set
 * Model Training.
 
 # Datasets
-...
 
+* **Banknote dataset:** (https://bit.ly/3dKAedR)
