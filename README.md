@@ -27,4 +27,5 @@ Here you will find my *Machine Learning* solutions for various types of data set
 
 # Datasets
 
+* **Abalone dataset:** (https://bit.ly/3hidYKH)
 * **Banknote dataset:** (https://bit.ly/3dKAedR)
