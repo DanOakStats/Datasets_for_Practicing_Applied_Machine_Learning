@@ -8,8 +8,8 @@
 
 Aqui você encontra as minhas soluções de *Machine Learning* para diversos tipos de conjuntos de dados. Objetivo é implementar um fluxo de trabalho que vai desde:
 * Coleta dos dados;
+* Limpeza dos dados;
 * Análise exploratória de dados;
-* Limpeza de dados;
 * Pré-processamento de dados
 * Seleção de algoritmos
 * Treinamento do modelo final.
@@ -19,8 +19,8 @@ Aqui você encontra as minhas soluções de *Machine Learning* para diversos tip
 
 Here you will find my *Machine Learning* solutions for various types of data sets. The goal is to implement a workflow that goes from:
 * Data collection;
+* Data cleaning;
 * Exploratory data analysis;
-* Data Cleaning;
 * Data preprocessing
 * Algorithm Selection
 * Model Training.
